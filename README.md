@@ -1,10 +1,10 @@
 
-Plano de Teste para [Nome do Projeto]
+Plano de Teste para Shein
 =====================================
 
 1. Introdução:
 --------------
-Este Plano de Teste descreve a abordagem, os procedimentos e os recursos a serem utilizados no teste do software [Nome do Software]. O objetivo é garantir a qualidade e a funcionalidade do sistema de acordo com os requisitos especificados.
+Este Plano de Teste descreve a abordagem, os procedimentos e os recursos a serem utilizados no teste do software Shein. O objetivo é garantir a qualidade e a funcionalidade do sistema de acordo com os requisitos especificados.
 
 2. Objetivos do Teste:
 -----------------------
@@ -14,8 +14,8 @@ Este Plano de Teste descreve a abordagem, os procedimentos e os recursos a serem
 
 3. Estratégia de Teste:
 ------------------------
-- Testes de Unidade: [Descrição da abordagem]
-- Testes de Integração: [Descrição da abordagem]
+- Testes de Unidade: [Descrição da abordagem] x
+- Testes de Integração: [Descrição da abordagem] x
 - Testes de Sistema: [Descrição da abordagem]
 - Testes de Aceitação: [Descrição da abordagem]
 
